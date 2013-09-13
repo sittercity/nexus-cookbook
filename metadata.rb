@@ -11,5 +11,5 @@ version          "2.3.0"
 end
 
 depends "java", "~> 1.12.0"
-depends "nginx", "~> 1.6.0"
+depends "nginx", "~> 1.7.0"
 depends "artifact", "~> 1.6.0"
